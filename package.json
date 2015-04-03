@@ -11,11 +11,13 @@
     "security",
     "ec2"
   ],
-  "version": "0.15.1",
+  "version": "0.16.0",
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
-    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)",
+    "Luca Lanziani <luca@lanziani.com>",
+    "Matteo Collina <hello@matteocollina.com>"
   ],
   "main": "lib/container",
   "engines": {
